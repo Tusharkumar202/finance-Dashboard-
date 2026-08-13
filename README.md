@@ -42,5 +42,5 @@ The dashboard can help identify:
 **Power BI • DAX • Data Visualization • Data Analysis • KPI Development • Interactive Dashboard Design • Business Intelligence • Data Storytelling**
 
 Screenshot / demo 
-show what the dashboard looks like - https://github.com/Tusharkumar202/finance-Dashboard-/blob/main/Annotation%202026-08-14%20023122.png,https://github.com/Tusharkumar202/finance-Dashboard-/blob/main/Annotation%202026-08-14%20023203.png, https://github.com/Tusharkumar202/finance-Dashboard-/blob/main/Annotation%202026-08-14%20023241.png, and 
+show what the dashboard looks like - https://github.com/Tusharkumar202/finance-Dashboard-/blob/main/Annotation%202026-08-14%20023122.png,https://github.com/Tusharkumar202/finance-Dashboard-/blob/main/Annotation%202026-08-14%20023203.png, https://github.com/Tusharkumar202/finance-Dashboard-/blob/main/Annotation%202026-08-14%20023241.png, and https://github.com/Tusharkumar202/finance-Dashboard-/blob/main/Annotation%202026-08-14%20023321.png
 
